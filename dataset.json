@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant data for the Nashville-Davidson-Murfreesboro-Franklin metro in Tennessee. Captures Music City's booming dining and hospitality scene, filtered by the Restaurants category group. Features business profiles, review trends, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Nashville-Davidson--Murfreesboro--Franklin (Metro), Tennessee, US",
+  "export_job_id": "0799a94c-f4d1-40e4-93c7-c443c92335ca",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 206629,
+  "location_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-nashville-davidson-murfreesboro-franklin-metro-tennessee-us-sample-206629",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/206629/beamstation_206629_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 442,
+  "sample_sha256": "36ec65611ecaf5a0bf8465c120e55cd5244d182200dcbfeee21719a1e2972166",
+  "sample_size_bytes": 1542969,
+  "total_records": 4421,
+  "updated_at": "2026-04-07T12:03:28.849706+00:00"
+}
