@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fd0cbce7-f106-4eb7-872d-dd34aa6a94d0",
+  "export_job_id": "72d1a36c-9b7b-4667-adb0-78fc836dffbc",
   "id_short": 206629,
-  "published_at": "2026-04-28T19:12:52Z",
+  "published_at": "2026-05-06T07:02:16Z",
   "repo_name": "all-restaurants-in-nashville-davidson-murfreesboro-franklin-metro-tennessee-us-sample-206629",
   "sample_asset_name": "beamstation_206629_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/206629/beamstation_206629_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
-  "sample_records": 482,
-  "sample_sha256": "fcdfe2861a99e3243f3ee8bb2876685cd0522ac9193d024c9820fc8ff81ead0b",
-  "sample_size_bytes": 1619097,
-  "total_records": 4826
+  "sample_records": 600,
+  "sample_sha256": "6806bc8c679ae6f86b95025be0cf6ad60f538e90acb03d4c6260571ecf28f3e0",
+  "sample_size_bytes": 2015791,
+  "total_records": 6009
 }
